@@ -1,0 +1,12 @@
+{
+	"Name": "SP and COOP Map Converter",
+	"Description": "Ports singleplayer and COOP maps to multiplayer for Conquest Large.",
+	"Version": "0.1",
+	"Authors": "SassythSasqutch",
+	"HasVeniceEXT": true,
+	"HasWebUI": false,
+	"Dependencies": {},
+	"Tags": [
+		"sp-map"
+	]
+}
